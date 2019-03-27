@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	font-family: 'Helvetica Neue', sans-serif;
+}
+
+header {
+	height: 30px;
+	box-shadow: 1px 2px 1px #d3d3d3;
+}
+
+.header__title {
+	font-size: 1.25em;
+}
